@@ -3,7 +3,7 @@ export default function Order(){
         <div>
             <h1>Order Now!!</h1>
    
-   Hungry? Place your order today and let The Gilded Spoon prepare a delicious meal for you! Simply give us a call, and we’ll take care of the rest.
+   Hungry? Place your order today and let The Gilded Spoon prepare a delicious meal for you! Simply give us a call, and we will take care of the rest.
 <br />
 How to Order:
 <br />
@@ -31,9 +31,9 @@ We accept cash on delivery upon pickup.
 <br />
 Delivery Hours:
 <br />
-Monday to Thursday: 08:30 AM – 10:00 PM
+Monday to Thursday: 08:30 AM to 10:00 PM
 <br />
-Friday to Sunday: 08:30 AM – 11:30 PM
+Friday to Sunday: 08:30 AM to 11:30 PM
 <br />
 
 Give us a call now and enjoy the delicious flavors of The Gilded Spoon without leaving your home!

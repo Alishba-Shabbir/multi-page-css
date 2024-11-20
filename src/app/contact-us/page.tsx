@@ -5,7 +5,7 @@ export default function Contact(){
         
           <h1>Contact Us</h1>
           <p>
-We’d love to hear from you! Whether you have a question, feedback, or would like to make a reservation, we are here to help.
+We do love to hear from you! Whether you have a question, feedback, or would like to make a reservation, we are here to help.
 <br />
 <br />
 Reach Out to Us:
@@ -28,9 +28,9 @@ info@thegildedspoon.pk
 
 🕒 Operating Hours:
 <br />
-Monday to Thursday: 07:00 AM – 10:00 PM
+Monday to Thursday: 07:00 AM to 10:00 PM
 <br />
-Friday to Sunday: 07:00 AM – 11:30 PM
+Friday to Sunday: 07:00 AM to 11:30 PM
 <br />
 Reservations:
 <br />
